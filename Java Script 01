@@ -1,0 +1,15 @@
+# JavaScript
+JavaScript Basic
+
+
+
+var num = 10.56734;
+	
+	   
+	
+	// document.getElementById('demo').innerHTML = num.toFixed(2);
+	document.getElementById('demo').innerHTML = num.toPrecision(3);
+
+	
+	
+	// document.write(num.toFixed(3));
